@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">An upcoming web developer with high motivation. As of right now i'm applying for a BSc Computer Science at the University of London and to be starting in April. I started 2025 more determined than ever to become more educated in my computer sciences and am currently learning at a fast pace.<br><br>In 2020 I attended Cantebury College for Computing and found even more of a passion for technology after I finished in 2022.  I soon to be working on my own website as my personal project.</h4>
+<h4 align="left">An upcoming web developer with high motivation. As of right now i'm applying for a BSc Computer Science at the University of London and will be starting in April. I started 2025 more determined than ever to become more educated in my computer sciences and I am currently learning at a fast pace.<br><br>In 2020 I attended Cantebury College for Computing and found even more of a passion for technology after I finished in 2022.  I soon to be working on my own website as my personal project.</h4>
 
 ###
 
