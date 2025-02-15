@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">An upcoming web developer with high motivation. As of right now i'm applying for a BSc Computer Science at the University of London and will be starting in April. I started 2025 more determined than ever to become more educated in my computer sciences and I am currently learning at a fast pace.<br><br>In 2020 I attended Cantebury College for Computing and found even more of a passion for technology after I finished in 2022.  I soon to be working on my own website as my personal project.</h4>
+<h4 align="left">An upcoming web developer with high motivation. As of right now i am applying for a BSc Computer Science at the University of London and to be starting in April. I started 2025 more determined than ever to become more educated in my computer sciences and am currently learning at a fast pace.<br><br>In 2020 i attended Cantebury College for Computing and found even more of a passion for technology after i finished in 2022.  I soon to be working on my own website as my personal project.</h4>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
 ###
@@ -48,6 +50,6 @@
 
 ###
 
-<p align="left">For my personal hobbies I enjoy bodybuilding and have been pursuing this lifestyle for a good few years. Staying active and fit really keeps my mind and body healthy and it has became a stape of my everyday life. I love Pokemon and Dance Dance Revolution and currently plan to build myself my own dance pad for my past time. I love to travel and thorughly enjoy cooking.</p>
+<p align="left">For my personal hobbies i enjoy bodybuilding and have been pursuing this lifestyle for a good few years. Staying active and fit really keeps my mind and body healthy and it has became a stape of my everyday life. I love Pokemon and Dance Dance Revolution and currently plan to build myself my own dance pad for my past time. I love to travel and thorughly enjoy cooking.</p>
 
 ###
